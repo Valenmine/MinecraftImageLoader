@@ -19,7 +19,9 @@ This plugin allows players and administrators to load custom images and display 
 -  Smooth rendering using maps and item frames.
 
 ---
-
+## Usage
+: create an image using /news image {"URL"} {"size between 1 and 4"}
+Note! Only compatible with HTTPS links.
 ##  Installation
 
 1. Download the `.jar` file from the repository or releases.
