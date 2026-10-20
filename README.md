@@ -20,7 +20,7 @@ This plugin allows players and administrators to load custom images and display 
 
 ---
 ## Usage
-: create an image using /news image {"URL"} {"size between 1 and 4"}
+: create an image using /newsimage {"URL"} {"size between 1 and 4"}
 Note! Only compatible with HTTPS links.
 ##  Installation
 
